@@ -1,0 +1,3 @@
+# Runtime SQLite database; regenerated from data/schema.sql and data/seed.sql.
+data/cybersnake.db
+__pycache__/
